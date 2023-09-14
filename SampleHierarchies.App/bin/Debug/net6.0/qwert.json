@@ -1,0 +1,9 @@
+{
+	"Product":	[
+		{
+			"Name":	"orange",
+			"Price":	12.0,
+			"Quantity":	20
+		}
+	]
+}
