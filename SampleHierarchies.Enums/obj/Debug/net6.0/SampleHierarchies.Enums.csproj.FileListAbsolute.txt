@@ -1,0 +1,36 @@
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.deps.json
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.csproj.AssemblyReference.cache
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.AssemblyInfoInputs.cache
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.AssemblyInfo.cs
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.csproj.CoreCompileInputs.cache
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Enums\obj\Debug\net6.0\refint\SampleHierarchies.Enums.dll
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Enums\obj\Debug\net6.0\ref\SampleHierarchies.Enums.dll
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.deps.json
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.csproj.AssemblyReference.cache
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.AssemblyInfoInputs.cache
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.AssemblyInfo.cs
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.csproj.CoreCompileInputs.cache
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Enums\obj\Debug\net6.0\refint\SampleHierarchies.Enums.dll
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Enums\obj\Debug\net6.0\ref\SampleHierarchies.Enums.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.deps.json
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Enums\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.csproj.AssemblyReference.cache
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.AssemblyInfoInputs.cache
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.AssemblyInfo.cs
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.csproj.CoreCompileInputs.cache
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Enums\obj\Debug\net6.0\refint\SampleHierarchies.Enums.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Enums\obj\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Enums\obj\Debug\net6.0\ref\SampleHierarchies.Enums.dll
