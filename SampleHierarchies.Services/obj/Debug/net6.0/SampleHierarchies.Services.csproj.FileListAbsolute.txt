@@ -1,0 +1,63 @@
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.csproj.AssemblyReference.cache
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.AssemblyInfoInputs.cache
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.AssemblyInfo.cs
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.csproj.CoreCompileInputs.cache
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Services.deps.json
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Services.dll
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Services.pdb
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Helpers.dll
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Helpers.pdb
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.csproj.CopyComplete
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.dll
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Services\obj\Debug\net6.0\refint\SampleHierarchies.Services.dll
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.pdb
+C:\Users\marki\Desktop\AAAAAAAA\src\SampleHierarchies.Services\obj\Debug\net6.0\ref\SampleHierarchies.Services.dll
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Services.deps.json
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Services.dll
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Services.pdb
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Helpers.dll
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Helpers.pdb
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.csproj.AssemblyReference.cache
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.AssemblyInfoInputs.cache
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.AssemblyInfo.cs
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.csproj.CoreCompileInputs.cache
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.csproj.CopyComplete
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.dll
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Services\obj\Debug\net6.0\refint\SampleHierarchies.Services.dll
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.pdb
+C:\Users\marki\Desktop\Easy\src\SampleHierarchies.Services\obj\Debug\net6.0\ref\SampleHierarchies.Services.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Services.deps.json
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Services.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Services.pdb
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Helpers.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Helpers.pdb
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Services\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.csproj.AssemblyReference.cache
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.AssemblyInfoInputs.cache
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.AssemblyInfo.cs
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.csproj.CoreCompileInputs.cache
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.csproj.CopyComplete
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Services\obj\Debug\net6.0\refint\SampleHierarchies.Services.dll
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Services\obj\Debug\net6.0\SampleHierarchies.Services.pdb
+C:\Users\kacha\OneDrive\Рабочий стол\Zadanie 4\SampleHierarchies.Services\obj\Debug\net6.0\ref\SampleHierarchies.Services.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1jvQaQ3gGoXCw0KmBPh0qYiYJSYtb+QknFamuvuDBfJuhHU/hJJjzRdodiXZozhQ2hq7Oi1VSp8E7LubsLDOKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kacha\\OneDrive\\Рабочий стол\\Zadanie 4\\SampleHierarchies.Interfaces\\SampleHierarchies.Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kacha\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
